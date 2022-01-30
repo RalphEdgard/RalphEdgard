@@ -47,8 +47,9 @@ var head = "yo mama";
 // of the list
 insertAt()
 {
-	if (index < 0 || index > this.size)continue; 
-	else {
+	if (index < 0 || index > this.size) {
+		continue;
+	} else {
 		// creates a new node
 		var node = new Node(element);
 		var curr, prev;
