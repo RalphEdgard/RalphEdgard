@@ -1,8 +1,5 @@
-<div style="
-            margin-right: 140px; 
-            font-size: 28px;
-            padding: 0px 10px;
-            ">
+<div style="margin-right: 140px; font-size: 28px; padding: 0px 10px;">
+            
 ## Same page link test
 
 <a href="#markdown">Markdown</a>
