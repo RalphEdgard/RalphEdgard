@@ -1,8 +1,8 @@
-var name = "lol";
+var password = "lol";
    
-while (name != "ohmygod") {
-	name = window.prompt("Enter your name: ");
-	if (name == "ohmygod") {
+while (password != "ohmygod") {
+	password = window.prompt("Enter password: ");
+	if (password == "ohmygod") {
 		break;
 	} else {
 		continue;
