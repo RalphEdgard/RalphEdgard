@@ -1,4 +1,4 @@
-            
+<script src="tonto.js"></script> 
 ## Same page link test
 
 <a href="#markdown">Markdown</a> \ 
