@@ -1,6 +1,6 @@
 ## Same page link test
 
-<a class="nav-link" href="#overview">Overview</a>
+<a href="#markdown">Markdown</a>
 
 ## Welcome to GitHub Pages
 
