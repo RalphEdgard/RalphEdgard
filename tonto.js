@@ -45,10 +45,9 @@ add(element)
 var head = "yo mama";
 // insert element at the position index
 // of the list
-insertAt(element, index)
+insertAt()
 {
-	if (index < 0 || index > this.size)
-		return console.log("Please enter a valid index.");
+	if (index < 0 || index > this.size)continue; 
 	else {
 		// creates a new node
 		var node = new Node(element);
