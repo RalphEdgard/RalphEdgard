@@ -160,7 +160,7 @@ indexOf(element)
 }
 
 while (head != "ralph") {
-  head = window.prompt("Enter your name: ");
+  head = alert("Enter your name: ");
   if (head == "ralph") {
     break; 
   }
