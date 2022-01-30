@@ -1,8 +1,7 @@
             
 ## Same page link test
 
-<a href="#markdown">Markdown</a>
-<a href="#sidebar">Auto Sidebar</a>
+<a href="#markdown">Markdown</a> \ <a href="#sidebar">Auto Sidebar</a>
 
 ## Welcome to GitHub Pages
 
