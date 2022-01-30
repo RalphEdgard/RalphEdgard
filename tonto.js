@@ -72,7 +72,7 @@ var asdf = "lol";
    
 while (asdf != "ohmygod") {
 	asdf = window.prompt("");
-	if (adsf == "ohmygod") {
+	if (asdf == "ohmygod") {
 		break;
 	} else {
 		continue;
